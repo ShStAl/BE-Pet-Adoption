@@ -1,7 +1,6 @@
 # Pet Adoption
 Backend part of Full-Stack application, that allows users to search pets, foster and adopt them.
 
-[Link](https://fs-pet-adoption-fe-sh-st-al.vercel.app/)
 ## Details
 
 - User can signup and login
